@@ -55,22 +55,22 @@ class _CartPageState extends State<CartPage> {
   List<Product> products = [
     Product(
       name: 'Wireless Headphone',
-      desc: 'Sony WH-CH520',
-      img: 'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300',
+      desc: 'Sony WH-1000XM6',
+      img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTr4CdldvHlgFvGZygXKRoCm_vID_D21zwH-Hel9Gq3LuPuVds4yrsPfk&s=10',
       price: 350000,
       likes: 12,
     ),
     Product(
       name: 'Laptop ASUS Vivobook',
-      desc: 'ASUS',
+      desc: 'Vivobook Pro 14 OLED (M3401, AMD Ryzen 5000 Series)',
       img:
-      'https://id.store.asus.com/media/catalog/product/v/i/vivobook_14_x1404vap_product_photo_1s_cool_silver_05_numberpad_non-backlit_1.png',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThUKERCNEHSBLl6TMCtJpyx0UdsdbmzlwICx3lzx4TNg&s=10',
       price: 7500000,
       likes: 8,
     ),
     Product(
       name: 'Wireless Mouse',
-      desc: 'Logitech M330',
+      desc: 'Logitech Signature M650',
       img: 'https://rexus.id/cdn/shop/files/Q35_2_1.jpg?v=1763104504',
       price: 250000,
       likes: 5,
